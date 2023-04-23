@@ -42,7 +42,7 @@
 <details>
 <summary>24일</summary>
 <div markdown="1">
-2023년 4월 24일 [알고리즘 - 자료구] : https://velog.io/@rosesua318/23%EB%85%84-4%EC%9B%94-24%EC%9D%BC
+2023년 4월 24일 [알고리즘 - 자료구조] : https://velog.io/@rosesua318/23%EB%85%84-4%EC%9B%94-24%EC%9D%BC
 </div>
 </details>
 

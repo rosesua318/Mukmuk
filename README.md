@@ -214,6 +214,13 @@
 2023년 5월 24일 [알고리즘 - 완탐] : https://velog.io/@rosesua318/23%EB%85%84-5%EC%9B%94-24%EC%9D%BC-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%EC%99%84%ED%83%90 
 </div>
 </details>
+  
+<details>
+<summary>26일</summary>
+<div markdown="1">
+2023년 5월 26일 [알고리즘 - 완탐] : https://velog.io/@rosesua318/23%EB%85%84-5%EC%9B%94-26%EC%9D%BC-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%EC%99%84%ED%83%90
+</div>
+</details>
 
 </details>
 

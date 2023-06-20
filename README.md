@@ -294,6 +294,13 @@
 2023년 6월 19일 [알고리즘 - 트리] : https://velog.io/@rosesua318/23%EB%85%84-6%EC%9B%94-19%EC%9D%BC-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%ED%8A%B8%EB%A6%AC
 </div>
 </details>
+
+<details>
+<summary>20일</summary>
+<div markdown="1">
+2023년 6월 20일 [알고리즘 - 트리] : https://velog.io/@rosesua318/23%EB%85%84-6%EC%9B%94-20%EC%9D%BC-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%ED%8A%B8%EB%A6%AC
+</div>
+</details>
   
 </details>
 

@@ -301,6 +301,13 @@
 2023년 6월 20일 [알고리즘 - 트리] : https://velog.io/@rosesua318/23%EB%85%84-6%EC%9B%94-20%EC%9D%BC-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%ED%8A%B8%EB%A6%AC
 </div>
 </details>
+
+<details>
+<summary>27일</summary>
+<div markdown="1">
+문자열 나누기 [Java] : https://velog.io/@rosesua318/%EB%AC%B8%EC%9E%90%EC%97%B4-%EB%82%98%EB%88%84%EA%B8%B0-Java
+</div>
+</details>
   
 </details>
 

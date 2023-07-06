@@ -348,6 +348,13 @@
 2023년 7월 5일 [알고리즘 - 시뮬레이션] : https://velog.io/@rosesua318/23%EB%85%84-7%EC%9B%94-5%EC%9D%BC-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%EC%8B%9C%EB%AE%AC%EB%A0%88%EC%9D%B4%EC%85%98
 </div>
 </details>
+
+<details>
+<summary>6일</summary>
+<div markdown="1">
+2023년 7월 6일 [알고리즘 - 그리디] : https://velog.io/@rosesua318/23%EB%85%84-7%EC%9B%94-6%EC%9D%BC-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%EA%B7%B8%EB%A6%AC%EB%94%94
+</div>
+</details>
   
 </details>
 

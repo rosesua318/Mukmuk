@@ -418,6 +418,14 @@
 2023년 7월 19일 [알고리즘 - 분할 정복] : https://velog.io/@rosesua318/23%EB%85%84-7%EC%9B%94-19%EC%9D%BC-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%EB%B6%84%ED%95%A0-%EC%A0%95%EB%B3%B5
 </div>
 </details>
+
+<details>
+<summary>20일</summary>
+<div markdown="1">
+2023년 7월 20일 [알고리즘 - 해싱, 시간파싱] : https://velog.io/@rosesua318/23%EB%85%84-7%EC%9B%94-20%EC%9D%BC-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%ED%95%B4%EC%8B%B1-%EC%8B%9C%EA%B0%84%ED%8C%8C%EC%8B%B1
+</div>
+</details>
+
 </details>
 
 </details>

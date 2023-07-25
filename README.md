@@ -433,6 +433,20 @@
 </div>
 </details>
 
+<details>
+<summary>22일</summary>
+<div markdown="1">
+2023년 7월 22일 [알고리즘 - 정렬] : https://velog.io/@rosesua318/23%EB%85%84-7%EC%9B%94-22%EC%9D%BC-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%EC%A0%95%EB%A0%AC
+</div>
+</details>
+
+<details>
+<summary>24일</summary>
+<div markdown="1">
+2023년 7월 24일 [알고리즘 - 브루트 포스 - 순열] : https://velog.io/@rosesua318/23%EB%85%84-7%EC%9B%94-24%EC%9D%BC-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%EB%B8%8C%EB%A3%A8%ED%8A%B8-%ED%8F%AC%EC%8A%A4-%EC%88%9C%EC%97%B4
+</div>
+</details>
+
 </details>
 
 </details>

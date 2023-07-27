@@ -468,6 +468,13 @@
 </div>
 </details>
 
+<details>
+<summary>28일</summary>
+<div markdown="1">
+2023년 7월 28일 [알고리즘 - 자료구조 활용] : https://velog.io/@rosesua318/23%EB%85%84-7%EC%9B%94-28%EC%9D%BC-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0-%ED%99%9C%EC%9A%A9
+</div>
+</details>
+
 </details>
 
 </details>

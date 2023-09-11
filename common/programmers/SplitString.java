@@ -1,8 +1,8 @@
 package common.programmers;
 
 public class SplitString {
-    class Solution {
-        static public int solution(String s) {
+    static class Solution {
+        public static int solution(String s) {
             int answer = 1; // 분해한 문자열의 개수
             int x = 0; // 첫 글자의 위치
             int y = 1; // 첫 글자와는 다른 글자의 위치

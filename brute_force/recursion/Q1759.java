@@ -1,4 +1,4 @@
-package brute_force;
+package brute_force.recursion;
 
 import java.util.*;
 
